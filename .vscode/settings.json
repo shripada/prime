@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "cassert": "c",
+    "memory": "c",
+    "optional": "c",
+    "assert.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
