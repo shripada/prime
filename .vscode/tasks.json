@@ -8,7 +8,7 @@
         "-fcolor-diagnostics",
         "-fansi-escape-codes",
         "-g",
-        "${file}",
+        "${fileDirname}/main.c",
         "-o",
         "${fileDirname}/build/prime"
       ],
